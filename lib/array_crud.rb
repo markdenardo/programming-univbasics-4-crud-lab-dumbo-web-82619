@@ -39,6 +39,5 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-animals =  ["dog","cat","mouse","owl"]
-animals[2]="panther"
+array[4]="totally"
 end
